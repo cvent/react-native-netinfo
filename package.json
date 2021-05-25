@@ -3,9 +3,9 @@
   "version": "6.0.0",
   "description": "React Native Network Info API for iOS & Android",
   "react-native": "src/index.ts",
-  "types": "lib/typescript/src/index.d.ts",
-  "main": "lib/commonjs/index.js",
-  "module": "lib/module/index.js",
+  "types": "src/index.ts",
+  "main": "src/index.ts",
+  "module": "src/index.ts",
   "files": [
     "/android",
     "!/android/build",
