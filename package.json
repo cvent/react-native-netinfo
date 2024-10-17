@@ -94,7 +94,7 @@
     "ts-loader": "^6.2.1",
     "typescript": "^3.4.1",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.10.2",
     "react-native-windows": "0.61.0",
     "metro": "0.56.0"
